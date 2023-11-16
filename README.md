@@ -55,14 +55,6 @@
 </p>
 <br><br>
 
-<h3>Add external informations linked to your project</h3>
-<p align="center">
-  <img
-    src="https://github.com/stephanebouget/powo/assets/13203455/6ec9147d-cc39-4025-a660-5e9c9f95dc9b"
-  />
-</p>
-<br><br>
-
 <h3>
   Manage the progress of your translations with statuses and keep a constant eye
   on overall progress
@@ -112,5 +104,13 @@
 <h3>Use our API to integrate translations directly into your services</h3>
 <p align="center">
   <img src="https://github.com/stephanebouget/powo/assets/13203455/48fc304f-515f-4b7b-ba08-d24c8eb26ac5" />
+</p>
+<br><br>
+
+<h3>Add external informations linked to your project</h3>
+<p align="center">
+  <img
+    src="https://github.com/stephanebouget/powo/assets/13203455/6ec9147d-cc39-4025-a660-5e9c9f95dc9b"
+  />
 </p>
 <br><br>
