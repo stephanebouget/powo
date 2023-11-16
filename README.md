@@ -123,6 +123,15 @@
 </p>
 <br><br>
 
+<h3>Initialize your project with existing translations</h3>
+<p align="center">
+  <img
+    src="https://github.com/stephanebouget/powo/assets/13203455/6ec9147d-cc39-4025-a660-5e9c9f95dc9b"
+  />
+  
+</p>
+<br><br>
+
 <h1>Contact us</h1>
 
 <h1>They trust us</h1>
