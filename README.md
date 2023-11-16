@@ -126,9 +126,8 @@
 <h3>Initialize your project with existing translations</h3>
 <p align="center">
   <img
-    src="https://github.com/stephanebouget/powo/assets/13203455/6ec9147d-cc39-4025-a660-5e9c9f95dc9b"
+    src="https://github.com/stephanebouget/powo/assets/13203455/7005d6e1-4467-489a-a010-b82c52afc944"
   />
-  
 </p>
 <br><br>
 
