@@ -13,6 +13,8 @@
   Don't waste any more time on complex processes to manage your translations
 </h3>
 
+> Powo currently manage +100.000 translations in production in more than 50 projects 
+
 https://powo.my.orange.com/
 
 <br><br>
@@ -54,10 +56,11 @@ https://powo.my.orange.com/
 </p>
 <br><br>
 
+
 <h3>see translations in their contexts</h3>
 <p align="center">
   <img
-    src="https://github.com/stephanebouget/powo/assets/13203455/fd22f21a-837a-45db-819e-77e5ba4208bb"
+    src="https://github.com/stephanebouget/powo/assets/13203455/55ca7e72-18b6-4d5b-b510-214b3da03165"
   />
 </p>
 <br><br>
