@@ -5,7 +5,7 @@
   />
 </p>
 <br>
-<h1 style="color: green; font-weight: 700; font-size: 20px">
+<h1>
   Easier, faster internationalization
 </h1>
 
