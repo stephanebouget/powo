@@ -1,8 +1,10 @@
+<br>
 <p align="center">
   <img
     src="https://github.com/stephanebouget/powo/assets/13203455/f0fe6ee9-44e1-46db-a061-f79ac314ba8b"
   />
 </p>
+<br>
 <h1 style="color: green; font-weight: 700; font-size: 20px">
   Easier, faster internationalization
 </h1>
@@ -11,12 +13,17 @@
   Don't waste any more time on complex processes to manage your translations
 </h3>
 
+https://powo.my.orange.com/
+
 <br><br>
 <p align="center">
   <img
     src="https://github.com/stephanebouget/powo/assets/13203455/289063d5-0754-41a4-beb3-3b48a749d5fa"
   />
 </p>
+
+<h1>Powo's features</h1>
+
 <h3>Automatic translation</h3>
 <p align="center">
   <img
@@ -114,3 +121,6 @@
   />
 </p>
 <br><br>
+
+<h1>Contact us</h1>
+
