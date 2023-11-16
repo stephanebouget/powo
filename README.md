@@ -15,8 +15,6 @@
 
 > Powo currently manage +100.000 translations in production in more than 50 projects 
 
-https://powo.my.orange.com/
-
 <br><br>
 <p align="center">
   <img
